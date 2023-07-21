@@ -1,6 +1,6 @@
 function suma(a,b) {
- let suma = a + b;
- return suma
+ let operacion = a + b;
+ return operacion
 }
 
 export default suma;
