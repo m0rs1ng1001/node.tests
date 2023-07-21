@@ -11,7 +11,7 @@ app.use(express.json());
 // Routes
 
 app.get("/ping", (req, res) => {
-  res.send("Pong");
+  res.send("funciona");
 });
 
 app.get("/tasks", (req, res) => {
